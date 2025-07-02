@@ -6,7 +6,7 @@ Usando modelo de "index.html" apresentada neste repositório você deverá compl
 
 ## 📤 Entrega
 
-1. Crie um repositório **público** no GitHub contendo o seu arquivo index.html modificado. Envie também as pastas com os arquivos prontos.
+1. Crie um repositório **público** no GitHub contendo o seu arquivo index.html modificado. Envie também as pastas com os arquivos prontos. ATENÇÃO: lembre-se de usar o recurso target="_blank" como no exemplo a seguir: <a href="pagina_exemplo.html" target="_blank">Abrir Página em Nova Aba</a>
 2. Publique o projeto com **GitHub Pages**.
 3. Envie o link do projeto publicado para:
    👉 [https://almeida-cma.github.io/receber/](https://almeida-cma.github.io/receber/)
